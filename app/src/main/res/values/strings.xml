@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Bottom Nav App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="list_fragment">List Fragment</string>
+    <string name="detail_fragment">Detail Fragment</string>
+    <string name="episode_count">Episode Count:</string>
+    <string name="genre">Genre:</string>
+    <string name="btnListEpisodeLabel">List episodes</string>
+    <string name="episode_name_label">Episode name: %1$s</string>
+    <string name="air_date">Episode broadcast date: %1$s</string>
+
+</resources>
